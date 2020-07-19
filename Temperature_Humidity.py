@@ -5,8 +5,6 @@ Created on Fri Jul 17 21:40:12 2020
 @author: EngenhariaCecal
 """
 
-import RPi.GPIO as GPIO
-import time
 import sys
 import Adafruit_DHT
 
